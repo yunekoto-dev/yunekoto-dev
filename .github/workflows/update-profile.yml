@@ -3,7 +3,7 @@ name: Update profile
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "0 * * * *"
   push:
     paths:
       - "config/**"
@@ -14,12 +14,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -44,5 +50,7 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: update profile statistics"
+            # Pull latest changes before pushing to avoid rejected non-fast-forward errors
+            git pull --rebase origin main
             git push
           fi
