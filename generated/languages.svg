@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="300" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#b68cff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="298" rx="22" fill="#11111a" stroke="#29293b"/>
+       <text x="55" y="60" fill="#f5f7ff" font-size="30" font-family="Inter,Arial" font-weight="700">Most used languages</text>
+       <text x="55" y="150" fill="#9296a8" font-size="17" font-family="Inter,Arial">No language data available yet.</text>
+</svg>
