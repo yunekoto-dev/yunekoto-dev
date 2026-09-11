@@ -33,9 +33,6 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ## `02` — Tech stack
 
-<div align="center">
-<img src="./assets/mascots/cat-glasses.png" width="90" alt="Cat with code reflecting in glasses">
-
 **Languages**
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -74,21 +71,10 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ## `03` — Currently exploring
 
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-ai.png" width="100" alt="Cat surrounded by a neural network graphic">
-</td>
-<td valign="top">
-
 - Systems programming & emulation
 - Advanced Rust
 - Modern web architecture
 - Software architecture & tooling
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -147,10 +133,6 @@ As new projects become public, they can be added to `config/projects.ts` and aut
 
 ## `07` — Engineering mindset
 
-<table>
-<tr>
-<td valign="top">
-
 ```text
 idea
  │
@@ -171,23 +153,9 @@ I don't want to only consume software.
 
 I want to understand it, modify it, and build the things I wish existed.
 
-</td>
-<td width="120" valign="top" align="center">
-<img src="./assets/mascots/cat-thinking.png" width="100" alt="Cat thinking in front of code">
-</td>
-</tr>
-</table>
-
 ---
 
 ## `08` — Profile infrastructure
-
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-server-error.png" width="100" alt="Cat surrounded by servers">
-</td>
-<td valign="top">
 
 This profile is itself a small automated project.
 
@@ -207,15 +175,9 @@ The repository uses:
 - cached/fallback data handling
 - configurable project & contact metadata
 
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
-
-<img src="./assets/mascots/cat-hoodie.png" width="90" alt="Cat in a hoodie with a binary background">
 
 ### `YUNEKOTO // BUILD • EXPLORE • CREATE`
 
