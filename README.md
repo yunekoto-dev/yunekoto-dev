@@ -14,18 +14,15 @@
 
 <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=yunekoto-dev&color=7c5cff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
 </div>
 
 ---
 
 ## `01` — About me
-
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-keyboard.png" width="100" alt="Cat coding at a keyboard">
-</td>
-<td valign="top">
 
 I'm a passionate, project-oriented developer who enjoys exploring almost every layer of software.
 
@@ -36,16 +33,11 @@ When I catch myself thinking "this could have been done differently", I would ra
 
 I'm especially interested in projects where I can combine **creativity, engineering and experimentation** — from polished web applications to low-level software.
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## `02` — Tech stack
 
 <div align="center">
-<img src="./assets/mascots/cat-glasses.png" width="90" alt="Cat with code reflecting in glasses">
 
 **Languages**
 
@@ -85,21 +77,10 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ## `03` — Currently exploring
 
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-ai.png" width="100" alt="Cat surrounded by a neural network graphic">
-</td>
-<td valign="top">
-
 - Systems programming & emulation
 - Advanced Rust
 - Modern web architecture
 - Software architecture & tooling
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -158,10 +139,6 @@ As new projects become public, they can be added to `config/projects.ts` and aut
 
 ## `07` — Engineering mindset
 
-<table>
-<tr>
-<td valign="top">
-
 ```text
 idea
  │
@@ -182,23 +159,9 @@ I don't want to only consume software.
 
 I want to understand it, modify it, and build the things I wish existed.
 
-</td>
-<td width="120" valign="top" align="center">
-<img src="./assets/mascots/cat-thinking.png" width="100" alt="Cat thinking in front of code">
-</td>
-</tr>
-</table>
-
 ---
 
 ## `08` — Profile infrastructure
-
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-server-error.png" width="100" alt="Cat surrounded by servers">
-</td>
-<td valign="top">
 
 This profile is itself a small automated project.
 
@@ -218,22 +181,12 @@ The repository uses:
 - cached/fallback data handling
 - configurable project & contact metadata
 
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-<img src="./assets/mascots/cat-hoodie.png" width="90" alt="Cat in a hoodie with a binary background">
-
 ### `YUNEKOTO // BUILD • EXPLORE • CREATE`
 
 <sub>Profile data is automatically refreshed by GitHub Actions.</sub>
-
-<br><br>
-
-![Profile views](https://komarev.com/ghpvc/?username=yunekoto-dev&color=7c5cff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
