@@ -12,23 +12,23 @@
      <rect x="55" y="110" width="890" height="26" rx="13" fill="#1c1c2b"/>
      <clipPath id="barClip"><rect x="55" y="110" width="890" height="26" rx="13"/></clipPath>
      <g clip-path="url(#barClip)">
-       <rect x="55.00" y="110" width="634.54" height="26" fill="#7c5cff"/>
-       <rect x="689.54" y="110" width="168.21" height="26" fill="#b68cff"/>
-       <rect x="857.75" y="110" width="53.66" height="26" fill="#5cc8ff"/>
-       <rect x="911.41" y="110" width="33.59" height="26" fill="#5cffb0"/>
+       <rect x="55.00" y="110" width="246.80" height="26" fill="#7c5cff"/>
+       <rect x="301.80" y="110" width="226.65" height="26" fill="#b68cff"/>
+       <rect x="528.45" y="110" width="217.01" height="26" fill="#5cc8ff"/>
+       <rect x="745.46" y="110" width="199.54" height="26" fill="#5cffb0"/>
      </g>
      <g>
        <circle cx="55" cy="184" r="7" fill="#7c5cff"/>
-       <text x="73" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">TypeScript</text>
-       <text x="73" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">71.3%</text>
+       <text x="73" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">JavaScript</text>
+       <text x="73" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">27.7%</text>
        <circle cx="355" cy="184" r="7" fill="#b68cff"/>
-       <text x="373" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">HTML</text>
-       <text x="373" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">18.9%</text>
+       <text x="373" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">TypeScript</text>
+       <text x="373" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">25.5%</text>
        <circle cx="655" cy="184" r="7" fill="#5cc8ff"/>
-       <text x="673" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">JavaScript</text>
-       <text x="673" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">6.0%</text>
+       <text x="673" y="190" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">CSS</text>
+       <text x="673" y="208" fill="#9296a8" font-size="13" font-family="Inter,Arial">24.4%</text>
        <circle cx="55" cy="224" r="7" fill="#5cffb0"/>
-       <text x="73" y="230" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">CSS</text>
-       <text x="73" y="248" fill="#9296a8" font-size="13" font-family="Inter,Arial">3.8%</text>
+       <text x="73" y="230" fill="#f5f7ff" font-size="16" font-family="Inter,Arial" font-weight="600">HTML</text>
+       <text x="73" y="248" fill="#9296a8" font-size="13" font-family="Inter,Arial">22.4%</text>
      </g>
 </svg>
