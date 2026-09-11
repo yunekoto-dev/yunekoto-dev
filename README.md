@@ -112,8 +112,6 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 </div>
 
-> Update `config/profile.ts` → `contacts` with your real email and links (website, X/Twitter, LinkedIn, etc.) — they'll be picked up automatically here. Badge colors follow each platform's brand color, so feel free to swap in others (e.g. `1DA1F2` for X/Twitter, `0A66C2` for LinkedIn) as you add them.
-
 ---
 
 ## `06` — Featured projects
