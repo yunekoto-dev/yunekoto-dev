@@ -90,7 +90,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 <br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=yunekoto-dev&theme=dark&background=11111a&border=29293b&ring=7c5cff&fire=b68cff&currStreakLabel=f5f7ff&sideNums=f5f7ff&currStreakNum=f5f7ff&sideLabels=9296a8&dates=9296a8" alt="GitHub streak stats">
+<img height="500" src="https://streak-stats.demolab.com?user=yunekoto-dev&theme=dark&background=11111a&border=29293b&ring=7c5cff&fire=b68cff&currStreakLabel=f5f7ff&sideNums=f5f7ff&currStreakNum=f5f7ff&sideLabels=9296a8&dates=9296a8" alt="GitHub streak stats">
 
 </div>
 
@@ -104,7 +104,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 [![Email](https://img.shields.io/badge/Email-yunekoto@proton.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunekoto@proton.me)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-yunekoto-dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-yunekoto--dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
 <br>
 [![Discord](https://img.shields.io/badge/Discord-yunekoto-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tinyurl.com/yunekoto-discord)
 
