@@ -16,7 +16,7 @@
        <text x="55" y="160" fill="#9296a8" font-size="15">REPOSITORIES</text>
        <text x="55" y="198" fill="#f5f7ff" font-size="30" font-weight="700">1</text>
        <text x="280" y="160" fill="#9296a8" font-size="15">STARS</text>
-       <text x="280" y="198" fill="#f5f7ff" font-size="30" font-weight="700">0</text>
+       <text x="280" y="198" fill="#f5f7ff" font-size="30" font-weight="700">1</text>
        <text x="505" y="160" fill="#9296a8" font-size="15">FOLLOWERS</text>
        <text x="505" y="198" fill="#f5f7ff" font-size="30" font-weight="700">2</text>
        <text x="730" y="160" fill="#9296a8" font-size="15">FORKS</text>
