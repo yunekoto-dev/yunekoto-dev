@@ -20,6 +20,13 @@
 
 ## `01` — About me
 
+<table>
+<tr>
+<td width="120" valign="top">
+<img src="./assets/mascots/cat-keyboard.png" width="100" alt="Cat coding at a keyboard">
+</td>
+<td valign="top">
+
 I'm a passionate, project-oriented developer who enjoys exploring almost every layer of software.
 
 I like turning ideas into concrete tools, experimenting with unfamiliar technologies, and pushing projects as far as I can.
@@ -29,11 +36,16 @@ When I catch myself thinking "this could have been done differently", I would ra
 
 I'm especially interested in projects where I can combine **creativity, engineering and experimentation** — from polished web applications to low-level software.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## `02` — Tech stack
 
 <div align="center">
+<img src="./assets/mascots/cat-glasses.png" width="90" alt="Cat with code reflecting in glasses">
 
 **Languages**
 
@@ -73,10 +85,21 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ## `03` — Currently exploring
 
+<table>
+<tr>
+<td width="120" valign="top">
+<img src="./assets/mascots/cat-ai.png" width="100" alt="Cat surrounded by a neural network graphic">
+</td>
+<td valign="top">
+
 - Systems programming & emulation
 - Advanced Rust
 - Modern web architecture
 - Software architecture & tooling
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,7 +115,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 <br>
 
-<img height="151" src="https://streak-stats.demolab.com?user=yunekoto-dev&theme=dark&background=11111a&border=29293b&ring=7c5cff&fire=b68cff&currStreakLabel=f5f7ff&sideNums=f5f7ff&currStreakNum=f5f7ff&sideLabels=9296a8&dates=9296a8" alt="GitHub streak stats">
+<img height="165" src="https://streak-stats.demolab.com?user=yunekoto-dev&theme=dark&background=11111a&border=29293b&ring=7c5cff&fire=b68cff&currStreakLabel=f5f7ff&sideNums=f5f7ff&currStreakNum=f5f7ff&sideLabels=9296a8&dates=9296a8" alt="GitHub streak stats">
 
 </div>
 
@@ -106,11 +129,13 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 [![Email](https://img.shields.io/badge/Email-yunekoto@proton.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunekoto@proton.me)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-yunekoto--dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-yunekoto-dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
 <br>
 [![Discord](https://img.shields.io/badge/Discord-yunekoto-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tinyurl.com/yunekoto-discord)
 
 </div>
+
+> Update `config/profile.ts` → `contacts` with your real email and links (website, X/Twitter, LinkedIn, etc.) — they'll be picked up automatically here. Badge colors follow each platform's brand color, so feel free to swap in others (e.g. `1DA1F2` for X/Twitter, `0A66C2` for LinkedIn) as you add them.
 
 ---
 
@@ -124,14 +149,18 @@ A Rust-based multi-system emulator currently under development.
 
 ### Project pipeline
 
-- **PROJECT_02** — · *Coming soon*
-- **PROJECT_03** — · *Coming soon*
+- **PROJECT_02** —  · *Coming soon*
+- **PROJECT_03** —  · *Coming soon*
 
 As new projects become public, they can be added to `config/projects.ts` and automatically surfaced here.
 
 ---
 
 ## `07` — Engineering mindset
+
+<table>
+<tr>
+<td valign="top">
 
 ```text
 idea
@@ -153,9 +182,23 @@ I don't want to only consume software.
 
 I want to understand it, modify it, and build the things I wish existed.
 
+</td>
+<td width="120" valign="top" align="center">
+<img src="./assets/mascots/cat-thinking.png" width="100" alt="Cat thinking in front of code">
+</td>
+</tr>
+</table>
+
 ---
 
 ## `08` — Profile infrastructure
+
+<table>
+<tr>
+<td width="120" valign="top">
+<img src="./assets/mascots/cat-server-error.png" width="100" alt="Cat surrounded by servers">
+</td>
+<td valign="top">
 
 This profile is itself a small automated project.
 
@@ -175,9 +218,15 @@ The repository uses:
 - cached/fallback data handling
 - configurable project & contact metadata
 
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
+
+<img src="./assets/mascots/cat-hoodie.png" width="90" alt="Cat in a hoodie with a binary background">
 
 ### `YUNEKOTO // BUILD • EXPLORE • CREATE`
 
