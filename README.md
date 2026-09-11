@@ -20,13 +20,6 @@
 
 ## `01` — About me
 
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="./assets/mascots/cat-keyboard.png" width="100" alt="Cat coding at a keyboard">
-</td>
-<td valign="top">
-
 I'm a passionate, project-oriented developer who enjoys exploring almost every layer of software.
 
 I like turning ideas into concrete tools, experimenting with unfamiliar technologies, and pushing projects as far as I can.
@@ -35,10 +28,6 @@ When I catch myself thinking "this could have been done differently", I would ra
 
 
 I'm especially interested in projects where I can combine **creativity, engineering and experimentation** — from polished web applications to low-level software.
-
-</td>
-</tr>
-</table>
 
 ---
 
