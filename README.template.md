@@ -86,7 +86,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 </div>
 
-> The overview and language cards above are generated in-house from `src/generators/` on every workflow run, so they never depend on a third-party server being up. The streak card is powered by the community [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project — if it ever stops loading, remove that `<img>` line; the two in-house cards above are unaffected. (We dropped the old `github-readme-stats.vercel.app` badge — its public demo server is frequently rate-limited/down, which is why it wasn't showing up.)
+> The overview and language cards above are generated in-house from `src/generators/` on every workflow run, so they never depend on a third-party server being up.
 
 ---
 
