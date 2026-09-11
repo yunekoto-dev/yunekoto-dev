@@ -124,8 +124,8 @@ A Rust-based multi-system emulator currently under development.
 
 ### Project pipeline
 
-- **PROJECT_02** — Your next project goes here. · *Coming soon*
-- **PROJECT_03** — A future project to be showcased here. · *Coming soon*
+- **PROJECT_02** — · *Coming soon*
+- **PROJECT_03** — · *Coming soon*
 
 As new projects become public, they can be added to `config/projects.ts` and automatically surfaced here.
 
