@@ -108,7 +108,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 [![Email](https://img.shields.io/badge/Email-yunekoto@proton.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunekoto@proton.me)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-yunekoto-dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-yunekoto--dev-7c5cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunekoto-dev)
 <br>
 [![Discord](https://img.shields.io/badge/Discord-yunekoto-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tinyurl.com/yunekoto-discord)
 
