@@ -32,6 +32,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 ---
 
 ## `02` — Tech stack
+<div align="center">
 
 **Languages**
 
