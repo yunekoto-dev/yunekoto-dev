@@ -19,16 +19,16 @@ export const projects: Project[] = [
   },
   {
     name: "PROJECT_02",
-    description: "Your next project goes here.",
-    technologies: ["Technology", "Technology"],
+    description: "",
+    technologies: [],
     status: "Coming soon",
     url: "#",
     featured: false
   },
   {
     name: "PROJECT_03",
-    description: "A future project to be showcased here.",
-    technologies: ["Technology", "Technology"],
+    description: "",
+    technologies: [],
     status: "Coming soon",
     url: "#",
     featured: false
