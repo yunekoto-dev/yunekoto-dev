@@ -12,11 +12,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/mascots/ghost-dev.png" width="155" alt="Yunekoto ghost mascot">
 
-<br>
+<br><br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yunekoto-dev&color=7c5cff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
 
 </div>
 
