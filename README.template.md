@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/mascots/ghost-dev.png" width="155" alt="Yunekoto ghost mascot">
 
+![Profile views](https://komarev.com/ghpvc/?username={{VIEWS_USERNAME}}&color=7c5cff&style=for-the-badge&label=PROFILE+VIEWS)
+
 <br>
 
 </div>
@@ -171,9 +173,5 @@ The repository uses:
 ### `YUNEKOTO // BUILD • EXPLORE • CREATE`
 
 <sub>Profile data is automatically refreshed by GitHub Actions.</sub>
-
-<br><br>
-
-![Profile views](https://komarev.com/ghpvc/?username={{VIEWS_USERNAME}}&color=7c5cff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
