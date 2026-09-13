@@ -106,19 +106,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ---
 
-## `06` — Featured projects
-
-{{FEATURED_PROJECTS}}
-
-### Project pipeline
-
-{{PROJECT_PLACEHOLDERS}}
-
-As new projects become public, they can be added to `config/projects.ts` and automatically surfaced here.
-
----
-
-## `07` — Engineering mindset
+## `06` — Engineering mindset
 
 ```text
 idea
@@ -142,7 +130,7 @@ I want to understand it, modify it, and build the things I wish existed.
 
 ---
 
-## `08` — Profile infrastructure
+## `07` — Profile infrastructure
 
 This profile is itself a small automated project.
 
