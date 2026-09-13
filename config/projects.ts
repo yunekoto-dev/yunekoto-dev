@@ -9,12 +9,11 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    name: "GameBoy / GameBoy Color / GameBoy Advance Emulator",
-    description: "A Rust-based multi-system emulator currently under development.",
+    name: "GameBoy / GameBoy Color Emulator",
+    description: "Game Boy and Game Boy Color emulator written in Rust with SDL2 video/audio, cartridge support, save files, and headless mode.",
     technologies: ["Rust", "Emulation", "Low-level", "Systems"],
-    status: "In development",
-    // Replace this with the public repository URL when you publish it.
-    url: "#",
+    status: "Finished",
+    url: "https://github.com/yunekoto-dev/gameboy-emulator",
     featured: true
   },
   {
