@@ -116,10 +116,10 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ## `06` — Featured projects
 
-### GameBoy / GameBoy Color / GameBoy Advance Emulator
-A Rust-based multi-system emulator currently under development.
+### [GameBoy / GameBoy Color Emulator](https://github.com/yunekoto-dev/gameboy-emulator)
+Game Boy and Game Boy Color emulator written in Rust with SDL2 video/audio, cartridge support, save files, and headless mode.
 
-**In development** · `Rust` · `Emulation` · `Low-level` · `Systems`
+**Finished** · `Rust` · `Emulation` · `Low-level` · `Systems`
 
 
 ### Project pipeline
