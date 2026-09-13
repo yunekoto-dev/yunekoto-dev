@@ -114,24 +114,7 @@ I'm especially interested in projects where I can combine **creativity, engineer
 
 ---
 
-## `06` — Featured projects
-
-### [GameBoy / GameBoy Color Emulator](https://github.com/yunekoto-dev/gameboy-emulator)
-Game Boy and Game Boy Color emulator written in Rust with SDL2 video/audio, cartridge support, save files, and headless mode.
-
-**Finished** · `Rust` · `Emulation` · `Low-level` · `Systems`
-
-
-### Project pipeline
-
-- **PROJECT_02** —  · *Coming soon*
-- **PROJECT_03** —  · *Coming soon*
-
-As new projects become public, they can be added to `config/projects.ts` and automatically surfaced here.
-
----
-
-## `07` — Engineering mindset
+## `06` — Engineering mindset
 
 ```text
 idea
@@ -155,7 +138,7 @@ I want to understand it, modify it, and build the things I wish existed.
 
 ---
 
-## `08` — Profile infrastructure
+## `07` — Profile infrastructure
 
 This profile is itself a small automated project.
 
